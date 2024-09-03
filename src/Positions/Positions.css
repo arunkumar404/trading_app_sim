@@ -27,19 +27,19 @@
 }
 .plType{
     color:#8c8c8c;
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 .plAmount{
     color: #1D805E;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     font-weight: 500;
 }
 .plType_down{
-        font-size: .8rem;
+        font-size: 1rem;
 
 }
 .plAmount_down{
-    font-size: 1.2;
+    font-size: 1.4;
 }
 .remove_pm{
     margin: 0;
