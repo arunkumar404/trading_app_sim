@@ -5,13 +5,14 @@
 .long_press {
   text-align: center;
   color: #8c8c8c;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 .details_row {
   display: flex;
   align-items: center;
   width: 92%;
   margin-inline: 3rem;
+  margin-block: 1rem;
 }
 .item_1 {
   width: 40%;
@@ -19,11 +20,11 @@
 }
 .text_detail_item {
   color: #8c8c8c;
-  font-size: 1.6rem;
+  font-size: 1.5rem;
 }
 .text_detail_item_big {
   color: #8c8c8c;
-  font-size: 1.8rem;
+  font-size: 1.7rem;
 }
 .item_2 {
   width: 32%;
