@@ -1,5 +1,6 @@
 import './App.css';
 import CustomTabs from './CustomTabs/CustomTabs';
+import DetailsContainer from './DetailsContainer/DetailsContainer';
 import Holdings from './Holdings/Header';
 import Positions from './Positions/Positions';
 
@@ -9,7 +10,7 @@ function App() {
       <Holdings/>
       <CustomTabs />
       <Positions/>
-      
+      <DetailsContainer/>
     </div>
   );
 }
