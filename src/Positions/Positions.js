@@ -14,15 +14,15 @@ const Positions = () => {
       <div className="pnl_Bottom">
         <div className="pnlContainer">
           <div className="pnlSingle">
-            <p className="plType_down remove_pm">Realised P&L</p>
-            <p className="plAmount_down remove_pm">₹{totalPL}</p>
+            <p className="plType plType_down remove_pm">Realised P&L</p>
+            <p className="plAmount plAmount_down remove_pm">₹{totalPL}</p>
           </div>
         </div>
-        <div className='vertical_bar'/>
+        <div className="vertical_bar" />
         <div className="pnlContainer">
           <div className="pnlSingle">
-            <p className="plType_down remove_pm">Unrealised P&L</p>
-            <p className="plAmount_down remove_pm">₹{totalPL}</p>
+            <p className="plType plType_down remove_pm">Unrealised P&L</p>
+            <p className="plAmount plAmount_down remove_pm">₹{totalPL}</p>
           </div>
         </div>
       </div>
