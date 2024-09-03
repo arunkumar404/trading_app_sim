@@ -3,8 +3,8 @@ import React from "react";
 const SuitcaseIcon = () => {
   return (
     <svg
-      width="40px"
-      height="40px"
+      width="50px"
+      height="50px"
       viewBox="0 0 24 24"
       id="suitcase-bag"
       class="icon glyph"

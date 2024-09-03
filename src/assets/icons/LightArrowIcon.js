@@ -3,8 +3,8 @@ import React from "react";
 const LightArrowIcon = () => {
   return (
     <svg
-      width="50px"
-      height="50px"
+      width="60px"
+      height="60px"
       viewBox="0 0 24 24"
       fill="none"
     >
