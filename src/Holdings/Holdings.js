@@ -8,8 +8,8 @@ const Holdings = () => {
     <div className="total_container">
       <div className="portfolio_header centered_content">
         <div className="portfolio_header_left_side centered_content">
-          <p className='portfolio_text'>Portfolio</p>
           <SuitcaseIcon />
+          <p className='portfolio_text'>Portfolio</p>
         </div>
         <LightArrowIcon />
       </div>
