@@ -1,0 +1,45 @@
+.total_pnl_container{
+    border: 1px solid #656565;
+    padding-block: 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:1rem;
+}
+.pnlContainer{
+    background-color: #121212;
+    padding-block: .3rem;
+    margin-inline: 3rem;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-inline: 10rem;
+}
+.pnlSingle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.plType{
+    color:#8c8c8c;
+    font-size: 1rem;
+}
+.plAmount{
+    color: #1D805E;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+.remove_pm{
+    margin: 0;
+    padding: 0;
+}
+.pnl_Bottom{
+    display: flex;
+}
+.vertical_bar{
+    border-right: 1px solid #b5b5b5;
+    
+}
