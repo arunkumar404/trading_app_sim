@@ -1,0 +1,18 @@
+.total_container {
+}
+.centered_content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.portfolio_header {
+padding-inline: 1.5rem;
+}
+.portfolio_header_left_side {
+  gap:15px;
+}
+.portfolio_text{
+  color:#ffffff;
+  font-size: 20px;
+  font-weight: 500;
+}
