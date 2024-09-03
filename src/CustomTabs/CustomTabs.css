@@ -12,6 +12,7 @@
     padding-bottom: .5rem;
     width:50%;
     justify-content: center;
+    font-size: 1.2rem;
 }
 .selectedHeader{
  border-bottom: 2px solid blue;
