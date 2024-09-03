@@ -12,7 +12,7 @@
   align-items: center;
   width: 92%;
   margin-inline: 3rem;
-  margin-block: 1rem;
+  margin-block: -.5rem;
 }
 .item_1 {
   width: 40%;

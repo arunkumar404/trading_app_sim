@@ -13,11 +13,10 @@
 }
 .pnlContainer {
   padding-block: 0.3rem;
-  margin-inline: 3rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-inline: 10rem;
+  margin-inline: 8rem;
 }
 .pnlSingle {
   display: flex;
