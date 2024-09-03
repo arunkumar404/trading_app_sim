@@ -6,9 +6,11 @@
     align-items: center;
     justify-content: center;
     gap:1rem;
+    margin-inline: 3rem;
+    background-color: #121212;
+    margin-bottom: 2rem;
 }
 .pnlContainer{
-    background-color: #121212;
     padding-block: .3rem;
     margin-inline: 3rem;
     border-radius: 10px;
@@ -31,6 +33,13 @@
     color: #1D805E;
     font-size: 1.4rem;
     font-weight: 500;
+}
+.plType_down{
+        font-size: .8rem;
+
+}
+.plAmount_down{
+    font-size: 1.2;
 }
 .remove_pm{
     margin: 0;
