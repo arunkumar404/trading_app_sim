@@ -1,0 +1,19 @@
+.tabs_container{
+    display: flex;
+    align-items: center;
+    padding-inline: 4rem;
+    padding-bottom: 2rem;
+}
+.tab_container{
+    display: flex;
+    align-items: center;
+    gap:5px;
+    color:#ffffff;
+    padding-bottom: .5rem;
+    width:50%;
+    justify-content: center;
+}
+.selectedHeader{
+ border-bottom: 2px solid blue;
+ color: blue;
+}

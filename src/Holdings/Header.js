@@ -1,9 +1,9 @@
 import React from "react";
-import "./Holdings.css";
+import "./Header.css";
 import LightArrowIcon from "../assets/icons/LightArrowIcon";
 import SuitcaseIcon from "../assets/icons/SuitcaseIcon";
 
-const Holdings = () => {
+const Header = () => {
   return (
     <div className="total_container">
       <div className="portfolio_header centered_content">
@@ -17,4 +17,4 @@ const Holdings = () => {
   );
 };
 
-export default Holdings;
+export default Header;
