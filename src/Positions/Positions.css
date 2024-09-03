@@ -9,11 +9,11 @@
     margin-inline: 3rem;
     background-color: #121212;
     margin-bottom: 2rem;
+    border-radius: 10px;
 }
 .pnlContainer{
     padding-block: .3rem;
     margin-inline: 3rem;
-    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,7 +31,7 @@
 }
 .plAmount{
     color: #1D805E;
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     font-weight: 500;
 }
 .plType_down{
